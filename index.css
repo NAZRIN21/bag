@@ -13,11 +13,11 @@ li{
 }
 #p2{
     width: 50px;
-    font-size:25px ;
+    font-size:20px ;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold; 
     font-style: italic;
-    padding: 35px;
+    /* padding: 35px; */
     width: 500px;
     color:mediumvioletred;
     
@@ -215,7 +215,7 @@ padding-left: 3px;
 
     }
 }
-#gf{
+/* #gf{
 padding-left: 800px;
 }
 @media(max-width:1500px){
@@ -223,7 +223,7 @@ padding-left: 800px;
         padding-left: 200px;
 
     }
-}
+} */
 #tt{
     background-color: #f4f4f4;
 }
