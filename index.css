@@ -89,43 +89,43 @@ padding: 70px;
 h2{
     text-align: center;
 }
-#mm1{
+/* #mm1{
     width: 200px;
 
     height: 210px;
 
-}
+} */
 #mm1:hover{
     box-shadow: 5px 5px 20px;
     color: grey;
 
 }
-#mm2{
+/* #mm2{
     width: 200px;
     height:210px ;
 
-}
+} */
 #mm2:hover{
     box-shadow: 5px 5px 20px;
     color: grey;
 
 }
 
-#mm3{
+/* #mm3{
     width: 200px;
     height: 210px;
 
-}
+} */
 #mm3:hover{
     box-shadow: 5px 5px 20px;
     color: grey;
 
 }
 
-#mm4{
+/* #mm4{
     width: 180px;
     height: 210px;
-}
+} */
 #mm4:hover{
     box-shadow: 5px 5px 20px;
     color: grey;
